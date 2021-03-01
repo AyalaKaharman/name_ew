@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+    color: black;
+}
+h1 {
+    color: cadetblue;
+    
+}
+.container {
+    background-color: cadetblue;
+    color: white;
+    padding-top: 30px;
+}
+.finalResult {
+    color: black;
+}
